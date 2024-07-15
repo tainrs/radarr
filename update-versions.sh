@@ -19,5 +19,5 @@ latest_version=$(curl -s $url | jq -r '.[0].version')
 json=$(cat VERSION.json)
 jq --sort-keys \
     --arg version "${latest_version//v/}" \
-    --arg branch "${branch}" \
-    '.version = $version | .branch = $branch' <<< "${json}" | tee VERSION.json
+    --arg sbranch "${branch}" \
+    '.version = $version | .sbranch = $sbranch' <<< "${json}" | tee VERSION.json
