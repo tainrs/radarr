@@ -1,0 +1,50 @@
+{
+  "release": {
+    "description": "Stable",
+    "hide": false,
+    "last_updated": "2024-07-26T12:02:04.000Z",
+    "last_updated_url": "https://github.com/tainrs/radarr/actions/runs/10110850142",
+    "latest": true,
+    "tags": [
+      "release",
+      "release-5.8.3.8933",
+      "release-f934388"
+    ]
+  },
+  "sync-update-release-master": {
+    "description": "Stable",
+    "hide": false,
+    "last_updated": "2024-07-23T01:12:44.000Z",
+    "last_updated_url": "https://github.com/tainrs/radarr/actions/runs/10050897780",
+    "latest": true,
+    "tags": [
+      "sync-update-release-master",
+      "sync-update-release-master-5.7.0.8882",
+      "sync-update-release-master-c835e35"
+    ]
+  },
+  "update-versions-release": {
+    "description": "Stable",
+    "hide": false,
+    "last_updated": "2024-07-26T11:52:34.000Z",
+    "last_updated_url": "https://github.com/tainrs/radarr/actions/runs/10110753274",
+    "latest": true,
+    "tags": [
+      "update-versions-release",
+      "update-versions-release-5.8.3.8933",
+      "update-versions-release-1407f74"
+    ]
+  },
+  "update-versions-sync-update-release-master": {
+    "description": "Stable",
+    "hide": false,
+    "last_updated": "2024-07-21T15:14:48.000Z",
+    "last_updated_url": "https://github.com/tainrs/radarr/actions/runs/10029345346",
+    "latest": true,
+    "tags": [
+      "update-versions-sync-update-release-master",
+      "update-versions-sync-update-release-master-5.8.3.8933",
+      "update-versions-sync-update-release-master-6eb16d7"
+    ]
+  }
+}
