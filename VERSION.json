@@ -1,0 +1,13 @@
+{
+  "description": "Stable",
+  "latest": true,
+  "sbranch": "master",
+  "test_amd64": true,
+  "test_arm64": false,
+  "test_url": "http://localhost:7878/system/status",
+  "upstream_digest_amd64": "sha256:644e302a977c7db10d8ce6beb6863e87f694c39529a5eaebe06eeb8897ebfb9e",
+  "upstream_digest_arm64": "",
+  "upstream_image": "docker.io/tainrs/base",
+  "upstream_tag": "alpine",
+  "version": "4"
+}
