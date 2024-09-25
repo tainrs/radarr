@@ -2,13 +2,13 @@
   "release": {
     "description": "Stable",
     "hide": false,
-    "last_updated": "2024-09-07T00:40:58.000Z",
-    "last_updated_url": "https://github.com/tainrs/radarr/actions/runs/10747114082",
+    "last_updated": "2024-09-25T05:17:16.000Z",
+    "last_updated_url": "https://github.com/tainrs/radarr/actions/runs/11026743665",
     "latest": true,
     "tags": [
       "release",
       "release-5.8.3.8933",
-      "release-a7b4832"
+      "release-2f7481a"
     ]
   },
   "sync-update-release-master": {
