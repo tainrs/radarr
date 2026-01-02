@@ -26,13 +26,13 @@
   "update-versions-release": {
     "description": "Stable",
     "hide": false,
-    "last_updated": "2024-10-26T18:18:53.000Z",
-    "last_updated_url": "https://github.com/tainrs/radarr/actions/runs/11533965622",
+    "last_updated": "2026-01-02T22:22:54.000Z",
+    "last_updated_url": "https://github.com/tainrs/radarr/actions/runs/20667858342",
     "latest": true,
     "tags": [
       "update-versions-release",
-      "update-versions-release-5.14.0.9383",
-      "update-versions-release-ab0c700"
+      "update-versions-release-6.0.4.10291",
+      "update-versions-release-d5fa1a9"
     ]
   },
   "update-versions-sync-update-release-master": {
